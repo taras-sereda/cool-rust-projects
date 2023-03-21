@@ -11,6 +11,8 @@ A collection of cool rust ecosystem projects
   - command palettes
   - workflows
   - AI assitant
+  
+ - [Typst](https://github.com/typst/typst) Markup-based typesetting with collaborative document editor, modern LaTeX alternative
 
 ## Blogs:
 
