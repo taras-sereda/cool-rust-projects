@@ -13,6 +13,7 @@ A collection of cool rust ecosystem projects
   - AI assitant
   
  - [Typst](https://github.com/typst/typst) Markup-based typesetting with collaborative document editor, modern LaTeX alternative
+ - [ripgrep(rg)](https://github.com/BurntSushi/ripgrep) fast implementation of grep, which respects dot files and binary files.
 
 ## Blogs:
 
