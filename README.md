@@ -18,8 +18,9 @@ A collection of cool rust ecosystem projects
  - [ripgrep(rg)](https://github.com/BurntSushi/ripgrep) fast implementation of grep, which respects dot files and binary files.
  - [aquascope](https://github.com/cognitive-engineering-lab/aquascope) visualization of Rust's compile-time and run-time behaviour.
 
-## Blogs&articles:
+## Blogs & articles & papers:
 
 - [Intro to rust](https://applied-math-coding.medium.com/list/an-introduction-into-rust-22c99777c5e5) blogpost series written from the perspective of mathematician
 - [How Rust went from a side project to the world’s most-loved programming language](https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language/) inspirational MIT tech review article by Clive Thompson
 - [Why I find Rust interesting](https://shiver.github.io/post/why_i_find_rust_interesting/) a blogpost by Robert Vally
+- [Energy Efficiency across Programming Languages](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf) Nice paper which compares energy efficency across programming languages. Takeaway Rust is around  2x more energy efficient than Java.
