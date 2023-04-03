@@ -16,6 +16,7 @@ A collection of cool rust ecosystem projects
  - [Typst](https://github.com/typst/typst) Markup-based typesetting with collaborative document editor, modern LaTeX alternative
  - [ripgrep(rg)](https://github.com/BurntSushi/ripgrep) fast implementation of grep, which respects dot files and binary files.
  - [aquascope](https://github.com/cognitive-engineering-lab/aquascope) visualization of Rust's compile-time and run-time behaviour.
+ - [rust-analyzer](https://rust-analyzer.github.io) Rust's LSP - provides code completion, type annotation, go-to definition features for editors like vim, VS Code, so with it, it's possible to make vim your customizably configured IDE, isn't that cool?! :)
 
 ## Blogs & articles & papers:
 
@@ -23,3 +24,4 @@ A collection of cool rust ecosystem projects
 - [How Rust went from a side project to the world’s most-loved programming language](https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language/) inspirational MIT tech review article by Clive Thompson
 - [Why I find Rust interesting](https://shiver.github.io/post/why_i_find_rust_interesting/) a blogpost by Robert Vally
 - [Energy Efficiency across Programming Languages](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf) Nice paper which compares energy efficency across programming languages. Takeaway Rust is around  2x more energy efficient than Java.
+
