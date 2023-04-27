@@ -26,4 +26,5 @@ A collection of cool rust ecosystem projects
 - [Why I find Rust interesting](https://shiver.github.io/post/why_i_find_rust_interesting/) a blogpost by Robert Vally
 - [Energy Efficiency across Programming Languages](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf) Nice paper which compares energy efficency across programming languages. Takeaway Rust is around  2x more energy efficient than Java.
 - [Rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
+- [Comprehensive overview or Rust GUI libraries](https://monadical.com/posts/shades-of-rust-gui-library-list.html#)
 
