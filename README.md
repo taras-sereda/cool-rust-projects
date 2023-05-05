@@ -19,6 +19,9 @@ A collection of cool rust ecosystem projects
  - [aquascope](https://github.com/cognitive-engineering-lab/aquascope) visualization of Rust's compile-time and run-time behaviour.
  - [rust-analyzer](https://rust-analyzer.github.io) Rust's LSP - provides code completion, type annotation, go-to definition features for editors like vim, VS Code, so with it, it's possible to make vim your customizably configured IDE, isn't that cool?! :)
 
+## Block-chain:
+- [solana](https://github.com/solana-labs/solana) Just stummbled upon it.
+
 ## Books & Blogs & articles & papers:
 
 - [Intro to rust](https://applied-math-coding.medium.com/list/an-introduction-into-rust-22c99777c5e5) blogpost series written from the perspective of mathematician
