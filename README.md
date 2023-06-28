@@ -24,6 +24,7 @@
  - [ripgrep(rg)](https://github.com/BurntSushi/ripgrep) fast implementation of grep, which respects dot files and binary files.
  - [aquascope](https://github.com/cognitive-engineering-lab/aquascope) visualization of Rust's compile-time and run-time behaviour.
  - [rust-analyzer](https://rust-analyzer.github.io) Rust's LSP - provides code completion, type annotation, go-to definition features for editors like vim, VS Code, so with it, it's possible to make vim your customizably configured IDE, isn't that cool?! :)
+ - [sudo-rs](https://github.com/memorysafety/sudo-rs) an attempt to create a drop in replacement of sudo written in Rust. Love this :)
 
 ## Block-chain:
 - [solana](https://github.com/solana-labs/solana) Just stummbled upon it.
@@ -36,4 +37,5 @@
 - [Energy Efficiency across Programming Languages](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf) Nice paper which compares energy efficency across programming languages. Takeaway Rust is around  2x more energy efficient than Java.
 - [Rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 - [Comprehensive overview or Rust GUI libraries](https://monadical.com/posts/shades-of-rust-gui-library-list.html#)
+- [testing sudo-rs](https://ferrous-systems.com/blog/testing-sudo-rs/) blog post about testing sudo-rs implemented in Rust.
 
