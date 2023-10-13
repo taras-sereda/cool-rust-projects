@@ -39,3 +39,8 @@
 - [Comprehensive overview or Rust GUI libraries](https://monadical.com/posts/shades-of-rust-gui-library-list.html#)
 - [testing sudo-rs](https://ferrous-systems.com/blog/testing-sudo-rs/) blog post about testing sudo-rs implemented in Rust.
 
+## Workshops/courses:
+
+- [Comprehensive rust](https://github.com/google/comprehensive-rust) Well structured 3 full-day workshop on Rust from Google. So far I enjoy it's structure. They also use interesting examples as [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
+
+
