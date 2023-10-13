@@ -38,7 +38,7 @@
 - [Rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 - [Comprehensive overview or Rust GUI libraries](https://monadical.com/posts/shades-of-rust-gui-library-list.html#)
 - [testing sudo-rs](https://ferrous-systems.com/blog/testing-sudo-rs/) blog post about testing sudo-rs implemented in Rust.
-- [modern cmd rust tool](https://zaiste.net/posts/shell-commands-rust/) I like this list of well-know cmd tools reimplemnted in Rust, though their names are weird!
+- [modern cmd rust tool](https://zaiste.net/posts/shell-commands-rust/) I like this list of well-know cmd tools reimplemented in Rust, though their names are weird!
 
 ## Workshops/courses:
 
